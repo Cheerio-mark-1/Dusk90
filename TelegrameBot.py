@@ -3,7 +3,7 @@ import pandas_datareader as web #this is to fetch the finance related data from 
 from CryptoCoin import *
 
 # 2118270714:AAHsN9Tup5bARDNYa4I2RxTCmXgJurCIaH8
-TOKEN = '2118270714:AAHsN9Tup5bARDNYa4I2RxTCmXgJurCIaH8'
+TOKEN = '2118270714:AAFGzeox53AWppZvQ-JkDOPFnWpv6B0xF8A'
 # with open("Token.txt", 'r') as f:
 #     TOKEN = f.read()
 
